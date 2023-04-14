@@ -121,9 +121,10 @@ ul {
     padding-left: 1.3rem;
     font-size: x-large;
     display: flex;
-    flex-direction: column;
+    
     justify-content: center;
     align-items: center;
+    gap: 1.5rem;
 }
 
 li{
@@ -154,7 +155,7 @@ li{
 .productos {
     padding: 2rem;
     gap: 1rem;
-    background-color: #F5F5F5;
+    background-color:#C2C2CA;
     width: 100%;
     display: flex;
     justify-content: center;
